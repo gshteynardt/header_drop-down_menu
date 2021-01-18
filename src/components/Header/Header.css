@@ -136,7 +136,7 @@
 	}
 }
 
-@media (width > 726px) {
+@media (width > 736px) {
 	.menu__button {
 		display: none;
 		transition: .3s ease;
